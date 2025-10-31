@@ -44,9 +44,9 @@ class Led {
 };
 
 // ---------- VARIÁVEIS GLOBAIS ----------
-int pinoVermelho = 10;  // 🔴 LED Vermelho
-int pinoVerde = 12;     // 🟢 LED Verde
-int pinoAmarelo = 11;   // 🟡 LED Amarelo
+int pinoVermelho = 10;  // LED Vermelho
+int pinoVerde = 12;     // LED Verde
+int pinoAmarelo = 11;   // LED Amarelo
 
 // Ponteiros para os objetos LED
 Led* ledVermelho;
@@ -97,9 +97,9 @@ void loop() {
 
 | Fase | LED Ativo | Duração | Ação |
 |------|------------|----------|------|
-| 1 | 🔴 Vermelho | 6s | Interrompe o tráfego. |
-| 2 | 🟢 Verde | 4s | Libera o tráfego. |
-| 3 | 🟡 Amarelo | 2s | Alerta para mudança. |
+| 1 |  Vermelho | 6s | Interrompe o tráfego. |
+| 2 |  Verde | 4s | Libera o tráfego. |
+| 3 |  Amarelo | 2s | Alerta para mudança. |
 
 ## Lógica de Execução
 
@@ -182,3 +182,7 @@ Ciclo completo de semáforo (vermelho → verde → amarelo)
 Temporização correta  
 Documentação completa 
 Código funcional
+
+## Avaliação em pares
+Mirela Schneider Bianchi - 10
+Cumpriu todos os critérios para o 10 e explicou e detalhou todos os fatores na documentação.
