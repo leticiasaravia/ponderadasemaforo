@@ -5,7 +5,7 @@
 Implementar um **sistema de semáforo** utilizando **C++ no Arduino**, aplicando os conceitos de **Programação Orientada a Objetos (POO)** e **uso de ponteiros**.  
 O projeto visa demonstrar a criação de uma classe para representar LEDs, permitindo um controle modular e reutilizável do sistema de sinalização luminosa.
 
-## ⚙️ Componentes Utilizados
+##  Componentes Utilizados
 
 | Componente | Quantidade | Pino no Arduino |
 |-------------|-------------|-----------------|
@@ -186,3 +186,6 @@ Código funcional
 ## Avaliação em pares
 Mirela Schneider Bianchi - 10
 Cumpriu todos os critérios para o 10 e explicou e detalhou todos os fatores na documentação.
+
+Karol Rocha Barbosa - 10
+Documentação está bem clara e intuitiva, funciona corretamente e tem todos os requisitos de entrega para um 10
