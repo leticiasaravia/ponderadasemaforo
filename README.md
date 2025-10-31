@@ -127,6 +127,8 @@ void loop() {
 2. Conecte o **catodo (perna menor)** de cada LED ao **GND** do Arduino.  
 3. Conecte o **ânodo (perna maior)** de cada LED a um **resistor de 220 Ω**.  
 
+![Imagem do WhatsApp de 2025-10-31 à(s) 11 25 09_2ca34548](https://github.com/user-attachments/assets/6235cd12-98a4-4508-b607-7e7b2e6b2c7d)
+
 
 ### Passo 2 — Conexão dos resistores aos pinos digitais
 Ligue a outra extremidade dos resistores aos pinos digitais do Arduino:
@@ -135,10 +137,13 @@ Ligue a outra extremidade dos resistores aos pinos digitais do Arduino:
 - 🟡 **Amarelo → pino 11**  
 - 🟢 **Verde → pino 12**
 
+![Imagem do WhatsApp de 2025-10-31 à(s) 11 25 08_6863f516](https://github.com/user-attachments/assets/98df9782-e2c5-440c-97ec-3713952eb60f)
 
 ### Passo 3 — Conexão de energia
 - Conecte o **GND** da protoboard ao **GND** do Arduino.  
 - Conecte o **Arduino ao computador** via cabo USB.
+
+![Imagem do WhatsApp de 2025-10-31 à(s) 11 25 09_2aebc30d](https://github.com/user-attachments/assets/7040460d-f2d9-4a93-a34a-7bb16db2b249)
 
 
 ### Passo 4 — Upload do código
@@ -148,9 +153,15 @@ Ligue a outra extremidade dos resistores aos pinos digitais do Arduino:
 4. Clique em **Upload**.  
 5. Observe os LEDs alternando conforme as fases do semáforo (6s vermelho, 4s verde, 2s amarelo).
 
+### Passo 5 — Adicionar ao semáforo
+
+![Imagem do WhatsApp de 2025-10-31 à(s) 11 25 09_8a896a03](https://github.com/user-attachments/assets/8636c848-d442-4ff6-93b7-d8d6448eafd2)
+![Imagem do WhatsApp de 2025-10-31 à(s) 11 25 10_54156426](https://github.com/user-attachments/assets/a4f650a2-d9db-4a43-9dc8-6b96816eabcf)
+![Imagem do WhatsApp de 2025-10-31 à(s) 11 25 10_fc396efc](https://github.com/user-attachments/assets/663bb6f7-53b7-4ba4-8490-bdadfb4c8ee0)
+
 
 ### Demonstração em Vídeo
-**Link do vídeo:** 
+**Link do vídeo:** https://youtu.be/RB-71weg7BM?si=GfVh9OCRTVFM9dmZ
 
 ## Conclusão
 
